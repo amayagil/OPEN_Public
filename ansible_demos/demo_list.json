@@ -10,7 +10,7 @@
 		"workload": "rhel_90_tower_workshop"
 	}, {
 		"catalog_item": "Ansible Network Automation",
-		"workload": "tower_advanced_users_workshop"
+		"workload": "network"
 	}, {
 		"catalog_item": "Ansible Windows",
 		"workload": "windows_tower_workshop"
